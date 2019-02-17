@@ -23,7 +23,7 @@ workbox.precaching.precacheAndRoute([
   },
   {
     "url": "index.html",
-    "revision": "953ff6ce010b99d908c2309a704c5f4d"
+    "revision": "186564d38634848c24f9fd06db0b4672"
   },
   {
     "url": "nine-patches.html",
