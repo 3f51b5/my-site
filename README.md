@@ -10,4 +10,5 @@ This repo includes:
 
 * AndularLayouts [[demo page]](https://androidovshchik.github.io/AndularLayouts) [[project link]](https://github.com/androidovshchik/AndularLayouts)
 * AngularEpubViewer [[demo page]](https://androidovshchik.github.io/AngularEpubViewer) [[project link]](https://github.com/androidovshchik/AngularEpubViewer)
+* AndroidAssetStudio [[page]](https://androidovshchik.github.io/AndroidAssetStudio) [[project link]](https://github.com/romannurik/AndroidAssetStudio)
 * Androidovshchik (my site) [[home page]](https://androidovshchik.github.io)
