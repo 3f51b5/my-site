@@ -6,11 +6,11 @@
 <body>
 <h1>Quiz</h1>
 <h2>Шифрование:</h2>
-<textarea rows="2" cols="50" type="text" id="txt1" onKeyUp="encshowtxt(this.value)" placeholder="Текст"></textarea>
+<textarea rows="2" cols="50" type="text" onKeyUp="encshowtxt(this.value)" placeholder="Текст"></textarea>
 <p>Шифр: <span id="enctxt"></span></p>
 <br>
 <h2>Дешифрование:</h2>
-<textarea rows="2" cols="50" type="text" id="txt1" onKeyUp="decshowtxt(this.value)" placeholder="Шифр"></textarea>
+<textarea rows="2" cols="50" type="text" onKeyUp="decshowtxt(this.value)" placeholder="Шифр"></textarea>
 <p>Текст: <span id="dectxt"></span></p>
 <br>
 <script src="aes256.min.js"></script>
